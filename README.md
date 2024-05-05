@@ -4,6 +4,9 @@ This is frontend submodule of [photofolio](https://github.com/abhishekpatelmc/ph
 
 - Main repo: https://github.com/abhishekpatelmc/photofolio.git
 
+## Demo
+<img src="./PhotoFolio-Demo.png" alt="alt text" title="PhotoFolio Demo" width="800"/>
+
 ## Installation
 
 - clone the main repo
